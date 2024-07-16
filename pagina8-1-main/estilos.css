@@ -1,0 +1,18 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(221, 103, 103);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("intensamente-2.webp");
+    background-repeat: no-repeat;
+
+}
