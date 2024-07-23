@@ -5,14 +5,27 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(221, 103, 103);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
-body{
+body
     background-image: url("intensamente-2.webp");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat
+
+
+{
+.titulos
+font-size: 50px;
+
+text-align: center;
+
+
+
+
+
+
 
 }
